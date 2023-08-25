@@ -15,8 +15,9 @@ public class TestClass
      */
     public TestClass()
     {
-        // initialise instance variables
+        
         x = 0;
+        int Start = (x*4);
     }
 
     /**
